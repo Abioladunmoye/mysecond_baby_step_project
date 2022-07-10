@@ -34,5 +34,5 @@ After the data was downloaded, it was cleaned using Microsoft Excel by checking 
 My findings shows that;
 I. Mercedez-8, Lexus, Dodge, Ford, and Porsche, have the highest sales units compared to Hyundai, Jaguar, Jeep and Subaru 
 ![Screenshot (31)](https://user-images.githubusercontent.com/83860301/178156257-35a4d17c-7128-4e31-bc38-4ad35de68ac3.png)
-
+ 
 ----
