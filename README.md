@@ -16,8 +16,13 @@ III. The bottom 10 average performing cars.
 ----
 
 # Data Sourcing:
-This dataset was sourced from Kaggle and was downloaded unto my system for analysis.
- 
+This dataset was sourced from Kaggle and was downloaded unto my system for analysis and the data was seperated into different sheets namely; 
+I. Car Sales 
+II. Manufacturer and unit sales 
+III. Price and year resale value. 
+IV. Power Performance Factor
+![Screenshot (34)](https://user-images.githubusercontent.com/83860301/178156603-c34580ea-2711-47b7-ab7e-1955ade874fc.png)
+
 ----
 
 # Data Transformation:
